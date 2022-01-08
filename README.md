@@ -1,0 +1,2 @@
+# Variables
+Sample variable example
